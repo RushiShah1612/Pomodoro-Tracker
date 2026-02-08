@@ -2,8 +2,8 @@
 
 A modern, feature-rich Pomodoro timer application built to help you stay focused and productive. Customize your workflow, track your progress, and enjoy a seamless experience with a beautiful UI.
 
-![Project Preview](https://placehold.co/1200x600/e2e8f0/1e293b?text=Pomodoro+Tracker+Preview)
-*(Note: Replace with actual screenshot)*
+<img width="1904" height="866" alt="image" src="https://github.com/user-attachments/assets/24092098-5a18-4833-a799-481a177be1bd" />
+
 
 ## ✨ Features
 
